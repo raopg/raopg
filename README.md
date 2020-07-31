@@ -24,10 +24,10 @@ I am currently volunteering at Helping Hands Community as a software developer. 
 I am looking for full-time opportunities in full-stack web development (I primarily have experience in JS heavy stacks), so if you have any opportunities, feel free to reach out! :smile:
 
 ## What I'm currently learning :triumph:
-I'm currently learning distributed systems and Go. I hope to build my own distributed database in the near future.
+I'm currently learning distributed systems and Go. I hope to build my own distributed database in the near future
 <a href=https://www.youtube.com/watch?v=k0-WyZCKF5I>Inspiration for the DB project</a>
 
-I'm also building out a Gym Log application using React, GraphQL, Node.js and PostgreSQL. You can find the progress <a href=https://github.com/raopg/my-gym-log>here</a>.
+I'm also building out a Gym Log application using React, GraphQL, Node.js and PostgreSQL. You can find the progress <a href=https://github.com/raopg/my-gym-log>here</a>
 
 ## Reach out!
 I'm always looking to contribute, collaborate and work on all things tech, so feel free to reach to me via <a href="https://www.linkedin.com/in/raopg">LinkedIn</a>
