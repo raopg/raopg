@@ -25,7 +25,7 @@ I am looking for full-time opportunities in full-stack web development (I primar
 
 ## What I'm currently learning :triumph:
 I'm currently learning distributed systems and Go. I hope to build my own distributed database in the near future.
-Link to <a href=https://www.youtube.com/watch?v=k0-WyZCKF5I>inspiration for the DB project</a>
+Inspiration for the DB project - https://www.youtube.com/watch?v=k0-WyZCKF5I
 
 I'm also building out a Gym Log application using React, GraphQL, Node.js and PostgreSQL. You can find the progress <a href=https://github.com/raopg/my-gym-log>here</a>
 
