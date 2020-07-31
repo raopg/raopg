@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<b>Looking for full-time roles in software development!</b>
+
 ## What I'm working on :mechanic:
 
 I am currently volunteering at Helping Hands Community as a software developer. Helping Hands is a volunteer-driven organization in response to the pandemic. Our platform matches volunteers with people who need help. Learn more at <a href="https://helpinghands.community/">Helping Hands</a>
