@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **raopg/raopg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,3 +28,6 @@ I'm currently learning distributed systems and Go. I hope to build my own distri
 <a href=https://www.youtube.com/watch?v=k0-WyZCKF5I>Inspiration for the DB project</a>
 
 I'm also building out a Gym Log application using React, GraphQL, Node.js and PostgreSQL. You can find the progress <a href=https://github.com/raopg/my-gym-log>here</a>
+
+## Reach out!
+I'm always looking to contribute, collaborate and work on all things tech, so feel free to reach to me via <a href="https://www.linkedin.com/in/raopg">LinkedIn</a>
