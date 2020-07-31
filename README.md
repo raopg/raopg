@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## What I'm working on :mechanic:
 
-I am currently volunteering at Helping Hands Community as a software developer. Helping Hands is a volunteer-driven organization in response to the pandemic. Our platform matches volunteers with people who need help. Learn more at <a href="https://helpinghands.community/">Helping Hands</a>
+<!--I am currently volunteering at Helping Hands Community as a software developer. Helping Hands is a volunteer-driven organization in response to the pandemic. Our platform matches volunteers with people who need help. Learn more at <a href="https://helpinghands.community/">Helping Hands</a> -->
 
 I am looking for full-time opportunities in full-stack web development (I primarily have experience in JS heavy stacks), so if you have any opportunities, feel free to reach out! :smile:
 
