@@ -15,17 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<b>Looking for full-time roles in software development!</b>
-
 ## What I'm working on :mechanic:
 
-I am currently volunteering at Helping Hands Community as a software developer. Helping Hands is a volunteer-driven organization in response to the pandemic. Our platform matches volunteers with people who need help. Learn more at <a href="https://helpinghands.community/">Helping Hands</a>
+I am currently working at <a href="https://www.switchboard-software.com">Switchboard</a> as a Software Engineer.
 
-I am looking for full-time opportunities in full-stack web development (I primarily have experience in JS heavy stacks), so if you have any opportunities, feel free to reach out! :smile:
+## Current Learning list:triumph:
 
-## What I'm currently learning :triumph:
-I'm currently learning distributed systems and Go. I hope to build my own distributed database in the near future.
-Inspiration for the DB project - https://www.youtube.com/watch?v=rxzcx4HaCQo&t=38s
+- Scala
+- Kubernetes
+- AWS CloudFormation
+- Distributed systems and Go
 
 ## Reach out!
 I'm always looking to contribute, collaborate and work on all things tech, so feel free to reach to me via <a href="https://www.linkedin.com/in/raopg">LinkedIn</a>
