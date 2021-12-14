@@ -21,10 +21,9 @@ I am currently working at <a href="https://www.switchboard-software.com">Switchb
 
 ## Current Learning list:triumph:
 
-- Scala
 - Kubernetes
-- AWS CloudFormation
-- Distributed systems and Go
+- React
+- TailwindCSS
 
 ## Reach out!
 I'm always looking to contribute, collaborate and work on all things tech, so feel free to reach to me via <a href="https://www.linkedin.com/in/raopg">LinkedIn</a>
