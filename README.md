@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I am currently working at <a href="https://www.switchboard-software.com">Switchboard</a> as a Software Engineer.
 
-## Current Learning list:triumph:
+## Current Learning list :triumph:
 
 - Kubernetes
 - React
